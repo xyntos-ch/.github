@@ -88,24 +88,25 @@ I have worked on projects in various industries, including:
 ### Embedded
 
 - STM32
-- ARM Cortex-M
+- ARM Cortex-M/A
 - Bare Metal
 - FreeRTOS
-- Zephyr RTOS
+- embOS
 
 ### Communication
 
 - CAN
 - CANopen
+- REST
 - MQTT
 - Modbus
-- REST APIs
 - gRPC
+- I2C, SPI, etc.
 
 ### Development
 
 - Visual Studio
-- VS Code
+- VSCode
 - Git
 - CMake
 - Continuous Integration
