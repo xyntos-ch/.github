@@ -8,6 +8,31 @@ With more than **30 years of experience**, I specialize in designing maintainabl
 
 ---
 
+## 🔗 CANoopEn - open source CANopen stack
+
+**[CANoopEn](https://github.com/xyntos-ch/CANoopEn)** is our CANopen protocol stack, written in clean,
+object-oriented **C++17** and released as open source under the Apache License 2.0.
+
+The stack is completely target-independent and runs on any hardware architecture - from bare-metal
+microcontrollers to RTOS-based systems. It uses no dynamic memory allocation, every service can be
+compiled out to fit small flash budgets, and the object dictionary is generated from a standard
+CANopen EDS file and accessed in a fully type-safe way.
+
+Supported: NMT, heartbeat, SDO server and client (incl. block transfer), PDO and MPDO, SYNC, TIME,
+EMCY, LSS (CiA 305), CiA 303-3 indicators, the CiA 302-2 boot process and the CiA 417 lift
+application profile.
+
+| Repository | Content |
+|---|---|
+| **[CANoopEn](https://github.com/xyntos-ch/CANoopEn)** | The stack |
+| **[CANoopEnDemo](https://github.com/xyntos-ch/CANoopEnDemo)** | Ready-to-build sample projects (bare-metal and FreeRTOS, CiA 401 and CiA 417) |
+| **[CANoopEnTest](https://github.com/xyntos-ch/CANoopEnTest)** | Unit test suite, running on every commit |
+| **[CANoopEnTools](https://github.com/xyntos-ch/CANoopEnTools)** | Eds2Od - generates the object dictionary from an EDS file |
+
+Documentation: **[xyntos.ch/canopen](https://xyntos.ch/en/canopen/)**
+
+---
+
 ## 💡 Areas of Expertise
 
 - Embedded Software Development
