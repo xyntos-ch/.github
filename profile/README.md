@@ -29,7 +29,7 @@ application profile.
 | **[CANoopEnTest](https://github.com/xyntos-ch/CANoopEnTest)** | Unit test suite, running on every commit |
 | **[CANoopEnTools](https://github.com/xyntos-ch/CANoopEnTools)** | Eds2Od - generates the object dictionary from an EDS file |
 
-Documentation: **[xyntos.ch/canopen](https://xyntos.ch/en/canopen/)**
+Documentation: **[CANoopEn.net](https://CANoopEn.net)**
 
 ---
 
