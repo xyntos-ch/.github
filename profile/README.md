@@ -8,7 +8,7 @@ With more than **30 years of experience**, I specialize in designing maintainabl
 
 ---
 
-## 🔗 CANoopEn - open source CANopen stack
+## 🔗 CANoopEn – CANopen Stack C++/OOP
 
 **[CANoopEn](https://github.com/xyntos-ch/CANoopEn)** is our CANopen protocol stack, written in clean,
 object-oriented **C++17** and released as open source under the Apache License 2.0.
